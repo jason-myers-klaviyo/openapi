@@ -1,0 +1,23 @@
+README.md
+  58b93836fc1333d1 3,5,7-12,14-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.1",
+  "base_commit_sha": "2da8197cbf2e4c3a3a07d4cd8f7f51fb843f3c49",
+  "prompts": {
+    "58b93836fc1333d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "162564a6-6acb-4f7f-86d6-c90764883092",
+        "model": "<synthetic>"
+      },
+      "human_author": "Jason Myers",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 34,
+      "overriden_lines": 0
+    }
+  }
+}
