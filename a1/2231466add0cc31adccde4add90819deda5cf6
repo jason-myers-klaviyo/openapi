@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.1",
+  "base_commit_sha": "a12231466add0cc31adccde4add90819deda5cf6",
+  "prompts": {
+    "58b93836fc1333d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "162564a6-6acb-4f7f-86d6-c90764883092",
+        "model": "<synthetic>"
+      },
+      "human_author": "Jason Myers",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 9,
+      "accepted_lines": 0,
+      "overriden_lines": 9
+    }
+  }
+}
